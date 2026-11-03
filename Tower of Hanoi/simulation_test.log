@@ -1,0 +1,22 @@
+Godot Engine v4.7.1.stable.official.a13da4feb - https://godotengine.org
+
+1 disks: PASS (0 ms)
+2 disks: PASS (0 ms)
+3 disks: PASS (1 ms)
+4 disks: PASS (0 ms)
+5 disks: PASS (2 ms)
+6 disks: PASS (3 ms)
+7 disks: PASS (8 ms)
+8 disks: PASS (20 ms)
+9 disks: PASS (44 ms)
+10 disks: PASS (105 ms)
+11 disks: PASS (229 ms)
+12 disks: PASS (508 ms)
+13 disks: PASS (1120 ms)
+14 disks: PASS (2457 ms)
+15 disks: PASS (5446 ms)
+32 disks: PASS
+64 disks: PASS
+100 disks: PASS
+100-disk direct state: 1.343 ms/query
+ALL TESTS PASSED: recursive 1-15, large samples, manual, visual 3/5, jump, one-day, error stop

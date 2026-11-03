@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://f82cofqqf5k8"]
+
+[ext_resource type="Script" path="res://hanoi_game.gd" id="1_ket6o"]
+
+[node name="TowerOfHanoi" type="Node2D" unique_id=1653164607]
+script = ExtResource("1_ket6o")
